@@ -1,0 +1,14 @@
+{
+  "name": "a1_agenor_138121223",
+  "version": "1.0.0",
+  "description": "Assignment 1 for WEB322",
+  "main": "a1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agenor Junior",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
