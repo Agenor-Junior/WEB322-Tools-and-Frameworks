@@ -3,14 +3,8 @@
 
 ## Step 1: Initial Setup
 
-- **Install Visual Studio Code and Node.js.**
-  
 - **Create a folder for the assignment and name it “a1_name_studentnumber”,** where ‘name’ is your first and last name and ‘studentnumber’ is your student number.
   
-- **Download the provided "data" directory and "log.txt" zip file.** Unzip and place them in your assignment folder.
-  
-- **Open the folder in Visual Studio Code.**
-
 - **Use node’s “npm init” function to create a new package.**
 
 - **Set the entry point to "a1.js".**
