@@ -1,4 +1,4 @@
-# WEB322-Tools-and-Frameworks
+# Web Programming Tools and Frameworks - Description
 
 This course teaches how to design and create web applications and services in JavaScript, using widely-used and powerful tools and frameworks. The main topics covered in this course include server and client programming techniques, an introduction to data storage schemes, and an introduction to security.
 
