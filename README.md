@@ -10,4 +10,4 @@ Upon completing this course, I was able to acquire skills such as:
 - Designing programmatically generated web documents, using a view engine and a CSS framework, to present consistent, accessible, and attractively formatted content.
 - Applying HTTP protocol elements, including messages, URI, clients, GET and POST requests, servers, and responses, to design and implement a modern standards-based web application.
 - Creating a simple security system, including identity management, authentication, authorization, and resource sharing, to control access to a web application by authorized users.
-- Selecting a suitable host for a published web application to enable access on the public web
+- Selecting a suitable host for a published web application to enable access on the public web.
